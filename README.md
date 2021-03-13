@@ -11,4 +11,4 @@ Main Online Convex Algorithms illustrated on MNIST Dataset :
 
 ## References
 <a id="1">[1]</a> 
-Driggs, D., Ehrhardt, M.J. & Schönlieb, CB. Accelerating variance-reduced stochastic gradient methods. Math. Program. (2020). https://doi.org/10.1007/s10107-020-01566-2.
+Rie Johnson and Tong Zhang. 2013. Accelerating stochastic gradient descent using predictive variance reduction. In Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 1 (NIPS'13). Curran Associates Inc., Red Hook, NY, USA, 315–323.
