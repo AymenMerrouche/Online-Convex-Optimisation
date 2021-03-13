@@ -7,7 +7,7 @@ Main Online Convex Algorithms illustrated on MNIST Dataset :
 * Stochastic AdaGrad.
 * Stochastic Randomized Exponentiated Gradient +/-. 
 * Stochastic Variance Reduced Gradient (SVRG) from [[1]](#1).<br>
-**Theoretical context, empirical results and analysis are to be found in this report [report](./OCO_on_MNIST.pdf "report") and in this brief course [course](./regularization_randimization.pdf "course").**
+**Theoretical context, empirical results and analysis are to be found in this [report](./OCO_on_MNIST.pdf "report") and in this brief [course](./regularization_randimization.pdf "course").**
 
 ## References
 <a id="1">[1]</a> 
