@@ -1,7 +1,7 @@
 # Online-Convex-Optimisation
 Main Online Convex Algorithms illustrated on MNIST Dataset :
 * Unconstrained SGD.
-* Projected SGD (l_1 ball).
+* Projected SGD (l1 ball).
 * Stochastic Mirror Descent.
 * Stochastic Exponentiated Gradient +/-.
 * Stochastic AdaGrad.
